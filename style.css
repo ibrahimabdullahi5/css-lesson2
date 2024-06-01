@@ -1,0 +1,74 @@
+/*style */
+h1{
+color: blue;
+}
+nav{
+background-color: grey;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+background-color: green;
+text-align: center;
+border-radius: 5px solid white;
+display: block;
+padding: 14px 16px;
+display: inline;
+border: 1px;
+overflow: hidden;
+}
+body {
+background-color: brown;
+text-transform: lowercase;
+font-family: 'Times New Roman', Times, serif;
+margin: 0;
+padding: 0;
+}
+main{
+padding: -100px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: blue;
+    padding: 30px;
+}
+
+input[type=text]{
+margin: 0;
+padding: 0;
+width: 60%;
+height: 20px;
+background-color: silver;
+}
+
+input[type="number"]{
+   margin: 0; 
+   padding: 0;
+   width: 70%;
+   height: 25px;
+   background-color: gold;
+}
+input[type="email"]{
+    margin: 0; 
+    padding: 0;
+    width: 50%;
+    height: 30px;
+    background-color: sienna;
+}
+input[type="message"]{
+    margin: 0; 
+    padding: 0;
+    width: 65%;
+    height: 20px;
+    background-color: blueviolet;  
+}
+input[type=submit]{
+    margin: 0; 
+    padding: 0;
+    width: 55%;
+    height: 28px;
+    background-color: red;
+}
